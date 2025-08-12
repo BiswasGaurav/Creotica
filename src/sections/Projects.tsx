@@ -30,7 +30,7 @@ const portfolioProjects = [
       { title: "Used GitHub to make the page live" },
     ],
     link: "https://biswasgaurav.github.io/WebEditor/",
-    image: marioLandingPage,
+    image: webEditorLandingPage,
   },
   {
     company: "Self",
@@ -42,7 +42,7 @@ const portfolioProjects = [
       { title: "Used GitHub to make the page live" },
     ],
     link: "https://biswasgaurav.github.io/Mario/",
-    image: webEditorLandingPage,
+    image: marioLandingPage,
   },
 ];
 
